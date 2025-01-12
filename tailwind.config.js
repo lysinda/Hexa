@@ -25,8 +25,8 @@ export default {
       },
       backgroundImage: {
         "bg-image": "url('/images/background.png')",
-        "raven-image": "url('images/raven.png')",
-        "clouds-image": "url('images/clouds.png')",
+        "raven-image": "url('/images/raven.png')",
+        "clouds-image": "url('/images/clouds.png')",
       },
       gridTemplateColumns: {
         "55/fr": "55% 1fr",
